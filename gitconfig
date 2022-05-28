@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = daniel.rivera0823@gmail.com
+	name = daniel rivera daniel.rivera0823@gmail.com
